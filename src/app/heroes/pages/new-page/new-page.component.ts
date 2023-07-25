@@ -67,6 +67,8 @@ export class NewPageComponent implements OnInit {
 
   }
 
+
+
   onSubmit():void {
 
     if ( this.heroForm.invalid ) return;
