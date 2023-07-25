@@ -1,5 +1,5 @@
 
 
 export const environments = {
-  baseUrl: 'https://alex-parra.com/api'
+  baseUrl: 'https://fernando-herrera.com/api'
 }
